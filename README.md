@@ -3,7 +3,7 @@
 
 Jeux de combat entre 5 joueurs en Javascript.
 
-- version automatique : ok
+- version automatique : ok (pour la visualiser il faut aller en console)
 - version choix des attaques : à continuer (décommenter la ligne 5 et commenter la ligne 4 du fichier index.js visualiser l'ébauche)
 
 
